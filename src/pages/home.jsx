@@ -63,7 +63,7 @@ export default function Home() {
   return (
     <>
       <div className=" m-1  text-center text-2xl text-emerald-50 flex justify-center items-center gap-1 sm:flex-col">
-        <div className="bg-slate-400 rounded p-2 w-full">HOME</div>
+        <div className="bg-[#2874F0] rounded p-2 w-full">HOME</div>
       </div>
 
       <div className="flex flex-wrap gap-5 justify-center p-5">
